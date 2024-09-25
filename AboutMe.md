@@ -10,7 +10,7 @@ Welcome to my project portfolio! This repository contains various projects that 
   - [3. Java Applications](#3-java-applications)
 - [Contact](#contact)
   
-##About Me
+## About Me
 I am a recent graduate with a passion for software development and design. Throughout my studies, I have worked on multiple projects that highlight my technical skills and ability to solve problems in innovative ways.
 ## Skills
 - **Programming Languages**: Java, Python, SQL
