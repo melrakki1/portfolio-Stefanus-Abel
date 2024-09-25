@@ -1,14 +1,15 @@
 **Abel's Project Portfolio**
 
 Welcome to my project portfolio! This repository contains various projects that I have worked on during my time in college, showcasing my skills and experience in different areas such as Database Development, UI/UX Design, Java Programming, and more.
-##Table of Contents
-- [About Me] (#about-me)
-- [Skills] (#skills)
-- [Projects] (#projects)
-  - [1. Database Design Project] (#1-database-design-project)
-  - [2. UI/UX Design Portfolio] (#2-uiux-design-portfolio)
-  - [3. Java Applications] (#3-java-applications)
-  -  [Contact] (#contact)
+## Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+  - [1. Database Design Project](#1-database-design-project)
+  - [2. UI/UX Design Portfolio](#2-uiux-design-portfolio)
+  - [3. Java Applications](#3-java-applications)
+- [Contact](#contact)
+  
 ##About Me
 I am a recent graduate with a passion for software development and design. Throughout my studies, I have worked on multiple projects that highlight my technical skills and ability to solve problems in innovative ways.
 ## Skills
