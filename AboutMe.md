@@ -24,12 +24,12 @@ I am a recent graduate with a passion for software development and design. Throu
 ### 1. Database Design Project
 - **Description**: This project involves designing and implementing a relational database for an e-commerce platform. It includes ERD (Entity-Relationship Diagram) and SQL scripts for database schema creation and data manipulation.
 - **Technology Used**: MySQL, SQL
-- **Project Files**: [Database Project ZIP](link-to-zip-file)
+- **Project Files**: https://github.com/melrakki1/portfolio-abel/blob/main/AOL%20DATABASE.zip
   
 ### 2. UI/UX Design Portfolio
 - **Description**: A collection of UI/UX design projects focused on mobile and web applications. This includes wireframes, prototypes, and final designs.
 - **Tools Used**: Figma, Adobe XD
-- **Project Files**: [UI/UX Portfolio ZIP](link-to-zip-file)
+- **Project Files**: https://github.com/melrakki1/portfolio-abel/blob/main/UI%20UX%20AOL.zip
 
 ### 3. Java Applications
 - **Description**: A set of Java applications demonstrating my understanding of object-oriented programming, data structures, and algorithms.
