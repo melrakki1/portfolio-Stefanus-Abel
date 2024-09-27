@@ -43,6 +43,8 @@ I am a recent graduate with a passion for software development, design, and bloc
 Description: My research focuses on exploring blockchain solutions for SMEs and analyzing the Fantom project as a case study. The research investigates how blockchain can enhance trust, security, and data integrity for businesses.
 Technology Used: Fantom, Smart Contracts, Ethereum
 Research Paper: 
+https://github.com/melrakki1/portfolio-abel/blob/main/Fantom%20Blockchain%20Project%20Paper%20Analysis.docx
+
 
 ## Contact
 Feel free to reach out to me for any questions or collaboration opportunities.
