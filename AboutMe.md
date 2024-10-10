@@ -33,7 +33,7 @@ I am a recent graduate with a passion for software development, design, and bloc
 - **Description**: A showcase of my UI/UX design skills, this collection includes various mobile and web app designs. From initial wireframes to fully functional prototypes, I’ve utilized design thinking and user-centered principles to create intuitive and aesthetically pleasing interfaces. My work spans e-commerce apps, social platforms, and productivity tools. I am also including this pre-design project as part of the UI/UX section, as it showcases the essential planning stages before building the prototype. This project consists of activity diagrams, use case diagrams, system architecture, sequence diagrams, and database design, which lay the groundwork for the user experience and system functionality of the application.
 - **Tools Used**: Figma
 - **Project Files**: https://github.com/melrakki1/portfolio-abel/blob/main/UI%20UX%20AOL.zip
-- **Project Files 2**: 
+- **Project Files 2**: https://github.com/melrakki1/portfolio-abel/blob/main/AISAD%20project%20LAB.docxhttps://github.com/melrakki1/portfolio-abel/blob/main/AISAD%20project%20LAB.docx
 
 ### 3. Java Applications
 - **Description**: This section highlights several Java applications that demonstrate my deep understanding of object-oriented programming, data structures, and algorithms. These projects range from basic command-line applications to more complex, feature-rich systems built using Eclipse and NetBeans.
