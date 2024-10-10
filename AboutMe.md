@@ -34,6 +34,7 @@ I am a recent graduate with a passion for software development, design, and bloc
 - **Tools Used**: Figma
 - **Project Files**: https://github.com/melrakki1/portfolio-abel/blob/main/UI%20UX%20AOL.zip
 - **Project Files 2**: https://github.com/melrakki1/portfolio-abel/blob/main/AISAD%20project%20LAB.docx
+- **Project Files 3**: https://github.com/melrakki1/portfolio-abel/blob/main/PROJECT%20LAB%20ISAD.docx
 
 ### 3. Java Applications
 - **Description**: This section highlights several Java applications that demonstrate my deep understanding of object-oriented programming, data structures, and algorithms. These projects range from basic command-line applications to more complex, feature-rich systems built using Eclipse and NetBeans.
@@ -44,7 +45,7 @@ I am a recent graduate with a passion for software development, design, and bloc
 **Description**: In this research, I explore the potential of blockchain technology in improving trust, security, and data integrity for small and medium-sized enterprises (SMEs). Using the Fantom blockchain as a case study, the research dives deep into how decentralized systems can be leveraged to solve real-world business challenges.
 **Technology Used**: Fantom, Smart Contracts, Ethereum Virtual Machine, Solidity
 **Research Paper**: https://github.com/melrakki1/portfolio-abel/blob/main/Fantom%20Blockchain%20Project%20Paper%20Analysis.docx
-**Research Paper**: https://github.com/melrakki1/portfolio-abel/blob/main/%5BFINAL%5DCustomer_Trust_in_SMEs_Exploring_Blockchain_Solution_for_Data_Concerns%5B1%5D%20(1).doc
+**Research Paper 2**: https://github.com/melrakki1/portfolio-abel/blob/main/%5BFINAL%5DCustomer_Trust_in_SMEs_Exploring_Blockchain_Solution_for_Data_Concerns%5B1%5D%20(1).doc
 
 
 ## Contact
