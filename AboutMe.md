@@ -25,23 +25,23 @@ I am a recent graduate with a passion for software development, design, and bloc
 ### Projects
 
 ### 1. Database Design Project
-- **Description**: This project involves designing and implementing a relational database for an e-commerce platform. It includes ERD (Entity-Relationship Diagram) and SQL scripts for database schema creation and data manipulation.
+- **Description**: This project focuses on designing and implementing a relational database for an e-commerce platform. I crafted a robust schema to handle product inventories, customer data, order processing, and more. The database supports efficient queries and optimized data management for scalable e-commerce operations.
 - **Technology Used**: MySQL, SQL
 - **Project Files**: https://github.com/melrakki1/portfolio-abel/blob/main/AOL%20DATABASE.zip
   
 ### 2. UI/UX Design Portfolio
-- **Description**: A collection of UI/UX design projects focused on mobile and web applications. This includes wireframes, prototypes, and final designs.
-- **Tools Used**: Figma, Adobe XD
+- **Description**: A showcase of my UI/UX design skills, this collection includes various mobile and web app designs. From initial wireframes to fully functional prototypes, I’ve utilized design thinking and user-centered principles to create intuitive and aesthetically pleasing interfaces. My work spans e-commerce apps, social platforms, and productivity tools.
+- **Tools Used**: Figma
 - **Project Files**: https://github.com/melrakki1/portfolio-abel/blob/main/UI%20UX%20AOL.zip
 
 ### 3. Java Applications
-- **Description**: A set of Java applications demonstrating my understanding of object-oriented programming, data structures, and algorithms.
-- **Tools Used**: Eclipse, NetBeans
-- **Project Files**: [Java Projects ZIP](link-to-zip-file)
+- **Description**: This section highlights several Java applications that demonstrate my deep understanding of object-oriented programming, data structures, and algorithms. These projects range from basic command-line applications to more complex, feature-rich systems built using Eclipse and NetBeans.
+- **Tools Used**: Eclipse
+- **Project Files**: https://github.com/melrakki1/portfolio-abel/blob/main/Business%20Aplication%20Development.zip
 
 ### 4. Blockchain Research
-Description: My research focuses on exploring blockchain solutions for SMEs and analyzing the Fantom project as a case study. The research investigates how blockchain can enhance trust, security, and data integrity for businesses.
-Technology Used: Fantom, Smart Contracts, Ethereum
+Description: In this research, I explore the potential of blockchain technology in improving trust, security, and data integrity for small and medium-sized enterprises (SMEs). Using the Fantom blockchain as a case study, the research dives deep into how decentralized systems can be leveraged to solve real-world business challenges.
+Technology Used: Fantom, Smart Contracts, Ethereum Virtual Machine, Solidity
 Research Paper: 
 https://github.com/melrakki1/portfolio-abel/blob/main/Fantom%20Blockchain%20Project%20Paper%20Analysis.docx
 https://github.com/melrakki1/portfolio-abel/blob/main/%5BFINAL%5DCustomer_Trust_in_SMEs_Exploring_Blockchain_Solution_for_Data_Concerns%5B1%5D%20(1).doc
