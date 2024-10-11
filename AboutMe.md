@@ -1,4 +1,4 @@
-**Abel's Project Portfolio**
+## Abel's Project Portfolio
 
 Welcome to my project portfolio! This repository contains various projects that I have worked on during my time in college, showcasing my skills and experience in different areas such as Database Development, UI/UX Design, Java Programming, and more. I'm also a blockchain and web3 enthusiast, exploring decentralized technologies and their potential applications in various industries, including SMEs and finance. My portfolio highlights both traditional software development and innovative research into blockchain solutions.
 
